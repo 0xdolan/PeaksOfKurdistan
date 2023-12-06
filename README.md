@@ -55,7 +55,11 @@ Pêwîstiya me bi gelê herêmê heye ku di vê projeyê de alîkariya me bikin.
 
 ### Unverified Mountains Table
 
-<b><p style="color:red">Avoid depending on this table without thorough verification, as the data may not be reliable.</p></b>
+<div style="color:red">
+
+<p>Avoid depending on this table without thorough verification, as the data may not be reliable.</p>
+
+</div>
 
 | ckb_name            | kmr_name           | Height | Chain_ckb | Chain_kmr | city_kmr                | Herêm                                  |
 | ------------------- | ------------------ | ------ | --------- | --------- | ----------------------- | -------------------------------------- |
