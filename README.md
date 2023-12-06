@@ -48,6 +48,15 @@ Pêwîstiya me bi gelê herêmê heye ku di vê projeyê de alîkariya me bikin.
 
 ## Kurdistan Mountains Table
 
+### Verified Mountains Table
+
+| ckb_name | kmr_name | Height | Chain_ckb | Chain_kmr | coordinates | verified_by | verified_on |
+| -------- | -------- | ------ | --------- | --------- | ----------- | ----------- | ----------- |
+
+### Unverified Mountains Table
+
+<b><p style="color:red">Avoid depending on this table without thorough verification, as the data may not be reliable.</p></b>
+
 | ckb_name            | kmr_name           | Height | Chain_ckb | Chain_kmr | city_kmr                | Herêm                                  |
 | ------------------- | ------------------ | ------ | --------- | --------- | ----------------------- | -------------------------------------- |
 | هەڵگورد             | Hallgord           | 3607   |           |           |                         |                                        |
