@@ -53,11 +53,15 @@ Pêwîstiya me bi gelê herêmê heye ku di vê projeyê de alîkariya me bikin.
 | ckb_name | kmr_name | Height | Chain_ckb | Chain_kmr | coordinates | verified_by | verified_on |
 | -------- | -------- | ------ | --------- | --------- | ----------- | ----------- | ----------- |
 
+---
+
 ### Unverified Mountains Table
 
-<div style="color:red">
+Avoid depending on this table without thorough verification, as the data may not be reliable.
 
-<p>Avoid depending on this table without thorough verification, as the data may not be reliable.</p>
+<div dir="rtl" style="font-family: vazirmatn;">
+
+ئەو خشتەیەی خوارەوە هەر وەکوو پێشنووسێک ئامادە کراوە و پڕە لە هەڵە. تکایە بۆ هیچ مەبەستێک نابێت پشتی پێ ببەسترێت.
 
 </div>
 
