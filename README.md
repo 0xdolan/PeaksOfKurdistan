@@ -50,8 +50,9 @@ Pêwîstiya me bi gelê herêmê heye ku di vê projeyê de alîkariya me bikin.
 
 ### Verified Mountains Table
 
-| ckb_name | kmr_name | Height | Chain_ckb | Chain_kmr | coordinates | verified_by | verified_on |
-| -------- | -------- | ------ | --------- | --------- | ----------- | ----------- | ----------- |
+| ckb_name | kmr_name | Height (M) | Chain_ckb | Chain_kmr | coordinates                          | verified_by      | verified_on   | summit_sign                           |
+| -------- | -------- | ---------- | --------- | --------- | ------------------------------------ | ---------------- | ------------- | ------------------------------------- |
+| سارا     | Sara     | 1679       | N/A       | N/A       | 35.91475089162058, 45.02252090904178 | Dolan (@0xdolan) | 29 April 2024 | ![Sara](./images/S/sara_mountain.jpg) |
 
 ---
 
